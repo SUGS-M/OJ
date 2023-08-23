@@ -1,0 +1,27 @@
+{
+  "name": "oj-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.50.1",
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "eslint": "^8.47.0",
+    "less": "^4.2.0",
+    "less-loader": "^11.1.3",
+    "vite": "^4.4.5"
+  }
+}
